@@ -784,7 +784,7 @@ function App() {
             <div className="w-full max-w-full mx-auto px-2 sm:px-4 py-4 flex items-center justify-between">
               <div className="flex items-center">
                 <h1 className="text-2xl font-bold">
-                  <span className="text-blue-600">VISHAL</span>
+                  <span className="text-blue-600">ABHISHEKPATEL</span>
                   <span className="text-green-600">MEGA</span>
                   <span className="text-orange-500">MART</span>
                   <span className="text-red-500">NEW</span>
