@@ -1366,7 +1366,7 @@ function App() {
             <div className="w-full max-w-full mx-auto px-2 sm:px-4">
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
                 <div>
-                  <h3 className="text-white text-lg font-semibold mb-4">VishalMegaMartNew</h3>
+                  <h3 className="text-white text-lg font-semibold mb-4">AbhishekPatelMegaMartNew</h3>
                   <p className="mb-4">Your one-stop shop for premium products at affordable prices.</p>
                   <div className="flex gap-4">
                     <a href="#" className="text-2xl hover:text-white transition-colors duration-300">📱</a>
